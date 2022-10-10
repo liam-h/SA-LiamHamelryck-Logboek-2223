@@ -14,3 +14,12 @@
 <li>Uiteindelijk aangesloten bij groep Stanislas en Mohamed - discussie over eventuele OCR-implementatie in project "F*ckPaper" volgt</li>
 </ul>
 </li>
+<li>Week 3 (3-9/10)</li>
+<ul>
+<li>Figma-mockup afgewerkt en uitgebreid om OCR-functionaliteit te demonstreren - UI geinspireerd op UNIX-style file explorers (cf. GNOME, MacOS voor desktop, Android, iOS voor mobile)</li>
+<li>Gebrainstormd over OCR-implementatie in F*ckPaper</li>
+<li>Gebrainstormd over welke bestandtypes ondersteund zullen worden in de app: PDF en EPUB zijn musts, de rest nice-to-have</li>
+<li>Er zal ook in de UI een onderscheid bestaan tussen boeken en notities (OCR-gescande docs zullen automatisch onder notities vallen)</li>
+<li>Gestart aan crash course ReactJS ter voorbereiding van code schrijven vanaf volgende week</li>
+</ul>
+</li>
