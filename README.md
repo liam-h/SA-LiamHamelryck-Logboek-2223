@@ -28,5 +28,7 @@
 <li>Ik zal de backend doen en de verbinding met Firebase verzorgen</li>
 <li>Firebase-gerelateerde codelabs van bij Advanced Web & Mobile hermaakt</li>
 <li>As-is repository (frontend) in React met Stan doorlopen zodat ik zijn practices kan overnemen bij bijdragen tot frontend (uniformiteit)</li>
+<li>Firebase-project en -database aangemaakt</li>
+<li>Branch in repository aangemaakt voor Firebase-verbinding en testen checksumberekening (om duplicate uploads te vermijden)</li>
 </ul>
 </li>
