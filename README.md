@@ -22,4 +22,11 @@
 <li>Er zal ook in de UI een onderscheid bestaan tussen boeken en notities (OCR-gescande docs zullen automatisch onder notities vallen)</li>
 <li>Gestart aan crash course ReactJS ter voorbereiding van code schrijven vanaf volgende week</li>
 </ul>
+<li>Week 4 (10-16/10)</li>
+<ul>
+<li>Rollen verdeeld (uiteraard met ruimte voor flexibiliteit)</li>
+<li>Ik zal de backend doen en de verbinding met Firebase verzorgen</li>
+<li>Firebase-gerelateerde codelabs van bij Advanced Web & Mobile hermaakt</li>
+<li>As-is repository (frontend) in React met Stan doorlopen zodat ik zijn practices kan overnemen bij bijdragen tot frontend (uniformiteit)</li>
+</ul>
 </li>
